@@ -17,29 +17,29 @@ YouTube Mini offers a focused YouTube experience, prioritizing discoverability w
 
 ## Features
 
-- Search Functionality:
-- Quickly find movies by title or keyword.
-- User-Friendly Filtering: Narrow down search results by genre, release date, rating, and more.
-- Visually Appealing Design: An attractive layout emphasizes movie posters and key information for easy browsing.
-- Responsive Interface: Adapts seamlessly across different screen sizes (desktop, tablet, mobile).
-- REST API Integration: Fetches movie data dynamically for a smooth and up-to-date user experience.
-
+- Focused Search: Easily find YouTube videos by title or keywords.
+- Clean and Responsive Design:
+- A clutter-free interface adaptable to different screen sizes.
+- Categorized Genre Browsing: Effortlessly discover videos within your favorite genres.
+- Seamless Video Playback: Smooth video playback without distractions.
+- REST API Integration: Dynamically fetches YouTube video data using the YouTube API.
+  
 ## Installation
 
-- Clone the repository: git clone https://github.com/abhijeetjohnkujur/Movie-base.git
-- Navigate to the project directory: cd Movie-base
+- Clone the repository: git clone https://github.com/abhijeetjohnkujur/YouTube-Mini.git
+- Navigate to the project directory: cd YouTube-Mini
 - Install dependencies: npm install
 - Start the development server: npm start
 
 ## Technologies Used
 
 - React.js
-- Tailwind CSS
-- TMDB API
+- CSS
 - JavaScript
+- Context-api
 
 ## Future Development
 
-- Implement user authentication for saving favorite movies.
-- Personalized Database
+- Implement persistent search history.
+- Add related video suggestions.
 
