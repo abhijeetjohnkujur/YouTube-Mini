@@ -1,5 +1,5 @@
 # YouTube-Mini
-![Movie-base Main Search Page](public/ss1.png)
+![ YouTube-Mini Page](public/ss2.png)
 ## Table of Contents
 
 - [Movie-Base](#movie-base)
